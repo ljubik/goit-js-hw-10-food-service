@@ -1,7 +1,7 @@
 {
-  "name": "webpack-starter-kit",
+  "name": "food-service",
   "version": "1.1.0",
-  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "description": "**food-service**",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ljubik/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/ljubik/goit-js-hw-10-food-service#readme",
+  "homepage": "https://github.com/ljubik/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
